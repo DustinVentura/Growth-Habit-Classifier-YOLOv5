@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+opencv-python
+Pillow
+numpy
+pandas
+seaborn
+PyYAML
+tqdm
+ultralytics

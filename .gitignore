@@ -1,0 +1,30 @@
+# Virtual Environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Project specific folders to ignore
+Training Program/
+Legacy Files/
+detected/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.bmp
