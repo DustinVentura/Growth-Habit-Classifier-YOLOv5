@@ -2,11 +2,15 @@
 
 A simple yet powerful **YOLOv5s-based** desktop application that classifies bamboo images into **Running** or **Clumping** growth habits using a trained model and a user-friendly Tkinter interface.
 
+###
 Created by:
-Dustin Jeiondre A. Ventura
-Carla C. Ty
-BS Computer Engineering Students
-Mapua University
+- Dustin Jeiondre A. Ventura
+- Carla C. Ty
+
+### 
+IEEE Document
+- https://ieeexplore.ieee.org/document/11216655
+###
 ---
 
 ## Features
